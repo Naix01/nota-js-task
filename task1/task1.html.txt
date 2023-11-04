@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Button Swap</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <button class="swap-btn">1</button>
+    <button class="swap-btn">2</button>
+    <button class="swap-btn">3</button>
+
+    <script src="script.js"></script>
+</body>
+</html>

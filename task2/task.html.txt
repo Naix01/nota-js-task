@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Table</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Date Time</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="data-table">
+            <!-- Data rows will be inserted here -->
+        </tbody>
+    </table>
+    
+    <button id="add-entry">Add New Entry</button>
+    
+    <script src="script.js"></script>
+</body>
+</html>
